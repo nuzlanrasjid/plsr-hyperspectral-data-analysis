@@ -20,10 +20,12 @@ Sourced from [Kaggle: Hyperspectral Benchmark Dataset on Soil Moisture](https://
 
 | Model | R² (CV) | RMSECV | RPD |
 |---|---|---|---|
-| Soil Moisture | ... | ... | ... |
-| Soil Temperature | ... | ... | ... |
+| Soil Moisture | 0.875331727 | 1.287714091 | 2.830872324 |
+| Soil Temperature | 0.834133176 | 1.899797441 | 2,453210554 |
 
-![Measured vs predicted](output/measured-vs-predicted-moisture.png)
+![Measured vs predicted soil moisture](/assets/plsr-file/Measured%20vs%20Predicted%20soil%20moisture.png)
+
+![Measured vs predicted soil temperature](/assets/plsr-file/Measured%20vs%20Predicted%20soil%20temperature.png)
 
 ## How to run
 
