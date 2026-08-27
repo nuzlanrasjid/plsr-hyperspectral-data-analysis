@@ -30,7 +30,7 @@ Sourced from [Kaggle: Hyperspectral Benchmark Dataset on Soil Moisture](https://
 ## How to run
 
 ```r
-source("R/plsr_analysis.R")
+source("R/hyperspectral-plsr-soil.R")
 ```
 
 Requires: `prospectr`, `pls`, `openxlsx`
